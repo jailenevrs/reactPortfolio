@@ -10,7 +10,7 @@ import "../styles/projects.css"
 
 function Portfolio(){
     return  <div className= "Portfolio">
-        <h1> Projects </h1>
+        <h1 className="projects"> Projects </h1>
         
         <div className= "listProject">
         <Projects name = "Weather App"  image ={Weather} />
