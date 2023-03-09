@@ -6,7 +6,9 @@
     place-items: center;
     color: #954D60;
   }
-
+  .projects{
+    color: #954D60;
+  }
   .Theimage {
    height: 300px;
     width: 300px;
