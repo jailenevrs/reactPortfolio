@@ -1,6 +1,6 @@
 
 Portfolio website to introduce myself and showcase projects i've done. The application includes an about me section, a portfolio section, resume and a contact page.
-
+https://jailenevrs.github.io/reactPortfolio/
 
 ## Available Scripts
 
